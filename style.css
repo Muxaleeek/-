@@ -1,0 +1,18 @@
+header{
+    background-color: aqua;
+height: 90px; ;
+color: black;
+font-size: 25px;
+}
+main{
+    background-color: rgb(93, 192, 27);
+    height: 90px;
+    color: black;
+    font-size: 25px;
+}
+footer{
+    background-color: rgb(202, 19, 89);
+    height: 90px;
+    color: black;
+    font: size 25px; 
+}
